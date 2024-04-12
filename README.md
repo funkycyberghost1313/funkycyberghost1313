@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on developing and modifying websites.
-- 📫 How to reach me on cybe island.
+- 📫 How to reach me on cyber island.
 - 😄 Pronouns: Alien.
 - ⚡ Fun fact: ...
 
