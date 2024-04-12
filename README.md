@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @funkycyberghost1313
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on developing and modifying websites
-- 📫 How to reach me ...
-- 😄 Pronouns: Alien
+- 👋 Hi, I’m @funkycyberghost1313.
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning web development.
+- 💞️ I’m looking to collaborate on developing and modifying websites.
+- 📫 How to reach me on cybe island.
+- 😄 Pronouns: Alien.
 - ⚡ Fun fact: ...
 
 <!---
